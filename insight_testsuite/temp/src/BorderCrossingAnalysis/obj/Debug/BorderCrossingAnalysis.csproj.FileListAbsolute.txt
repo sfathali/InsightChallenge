@@ -1,0 +1,6 @@
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\bin\Debug\BorderCrossingAnalysis.exe.config
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\bin\Debug\BorderCrossingAnalysis.exe
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\bin\Debug\BorderCrossingAnalysis.pdb
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\obj\Debug\BorderCrossingAnalysis.csproj.CoreCompileInputs.cache
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\obj\Debug\BorderCrossingAnalysis.exe
+C:\Saeed\BorderCrossingAnalysis\src\BorderCrossingAnalysis\obj\Debug\BorderCrossingAnalysis.pdb
